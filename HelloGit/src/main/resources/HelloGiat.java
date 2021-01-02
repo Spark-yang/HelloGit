@@ -5,5 +5,6 @@ public class HelloGiat {
         System.out.println("Hello Git");
         System.out.println("Hello Git");
         System.out.println("Hello Git");
+        System.out.println("创建分支");
     }
 }
